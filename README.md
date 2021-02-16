@@ -25,7 +25,7 @@ see `run_sample_training_pipeline.sh` for an executable end to end smoke test wa
 code depends in `requirements.txt`
 
 ```
-sudo apt-get install python3-tk python3-pil python3-pil.imagetk
+sudo apt-get install python3-tk python3-pil python3-pil.imagetk python3-matplotlib
 sudo pip3 install -r requirements.txt
 ```
 
