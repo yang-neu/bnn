@@ -1,4 +1,4 @@
-pillow
+Pillow
 numpy
 tensorflow
 tensorflow-gpu
