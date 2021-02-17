@@ -1,7 +1,7 @@
-Pillow
-numpy
-tensorflow
-tensorflow-gpu
+pillow
+numpy==1.19.2
+tensorflow==1.14
+tensorflow-gpu==1.14
 python-utils
 scipy
 scikit-learn
